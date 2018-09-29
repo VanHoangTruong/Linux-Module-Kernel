@@ -18,7 +18,7 @@ Direction to folder have three file [my_module.c](my_module.c), [Makefile](Makef
 
 ```
 sudo su make
-insmod my_modeule.ko
+insmod my_module.ko
 
 ```
 
