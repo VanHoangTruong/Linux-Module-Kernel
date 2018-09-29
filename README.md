@@ -14,7 +14,7 @@ cd /usr/src/linux-headers-$(uname -r)/
 
 ## Make module
 
-Direction to folder have three file my_module.c, Makefile, random_n.c
+Direction to folder have three file [my_module.c](my_module.c), [Makefile](Makefile), [random_n.c](random_n.c)
 
 ```
 sudo su make
